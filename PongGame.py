@@ -146,3 +146,5 @@ while gameRunning:
 	
 pygame.quit() #shuts down all the pygame resources and closes the game window
 quit() #quits the python process
+
+#End of pong game
